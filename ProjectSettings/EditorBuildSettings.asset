@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/VuforiaDemo.unity
     guid: 5afd5136a1db5454fbd0c6a4a89c15cc
+  - enabled: 1
+    path: Assets/BuisnessCard.unity
+    guid: 381ca529e8dc2954895229e568a43016
   m_configObjects: {}
